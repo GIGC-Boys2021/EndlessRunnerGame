@@ -34,3 +34,9 @@ An intelligent AI runner competes with the player in real time to increase chall
 - Modular and scalable code structure
 
 ## Media
+## Screenshots
+
+![Screenshot 1](Screenshot/Screenshoot1.png)
+![Screenshot 2](Screenshot/Screenshoot2.png)
+![Screenshot 3](Screenshot/Screenshoot3.png)
+![Screenshot 4](Screenshot/Screenshoot4.png)
