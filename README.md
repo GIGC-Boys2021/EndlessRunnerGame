@@ -43,3 +43,4 @@ An intelligent AI runner competes with the player in real time to increase chall
 ## 📱 Download APK
 
 👉 Latest Android build (APK) available here:  
+https://github.com/Muhmmad-Abdulrehman/EndlessRunnerGame/releases
