@@ -40,3 +40,6 @@ An intelligent AI runner competes with the player in real time to increase chall
 ![Screenshot 2](Screenshot/Screenshoot2.png)
 ![Screenshot 3](Screenshot/Screenshoot3.png)
 ![Screenshot 4](Screenshot/Screenshoot4.png)
+## 📱 Download APK
+
+👉 Latest Android build (APK) available here:  
